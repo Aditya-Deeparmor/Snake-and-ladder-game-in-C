@@ -1,4 +1,3 @@
-// PASSWORD: sunilkumar@2302
 //C program for creating & simulating a Snake & Ladder Game
 // Coded by: Akash Mahesh Ganjal. /\('-')/\ 
 //Constraints and Rules
@@ -13,6 +12,7 @@
 */
 #include<stdio.h>
 #include<stdlib.h>
+char PASSWORD: 'sunilkumar@2302'
 int rd()
 {
 	int rem;
