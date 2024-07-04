@@ -12,7 +12,7 @@
 */
 #include<stdio.h>
 #include<stdlib.h>
-char PASSWORD: 'sunilkumar@2302'
+char PASSWORD='sunilkumar@2302'
 int rd()
 {
 	int rem;
