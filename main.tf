@@ -10,7 +10,7 @@ resource "aws_secretsmanager_secret" "example" {
 resource "aws_secretsmanager_secret_version" "example" {
   secret_id     = aws_secretsmanager_secret.example.id
   secret_string = jsonencode({
-    password = var.secret_password
+    password = "ExamplePassword123!"
   })
 }
 
