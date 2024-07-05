@@ -19,5 +19,3 @@ Constraints and Rules:-
 5.Ladder:- 70 to 93, 60 to 83, 13 to 42.
 
 Enjoy playing...
-
-very_important_key : test_y1gWJ0mGgMXWGInJ6Vxf1cCPrXUw1CC77R8P7n3u
