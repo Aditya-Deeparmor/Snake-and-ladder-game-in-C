@@ -3,6 +3,7 @@ from psycopg2 import sql
 # Database connection parameters
 DB_NAME = "your_database_name"
 DB_USER = "your_username"
+DB_PASSWORD = "hack-me-if-you-can"
 DB_HOST = "your_host"
 DB_PORT = "your_port"
 auth = authy1gWJ0mGgMXWGInJ6Vxf1cCPrXUw1CC77R8P7n3u
